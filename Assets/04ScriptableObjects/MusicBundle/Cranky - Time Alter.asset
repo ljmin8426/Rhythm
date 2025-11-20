@@ -1,0 +1,231 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09cabcba444b2814cbaaa1350bd4a2b9, type: 3}
+  m_Name: Cranky - Time Alter
+  m_EditorClassIdentifier: 
+  rootFileName: Cranky - Time Alter
+  folder: Music/Cranky - Time Alter
+  preview: 0
+  spritePath: Music/Cranky - Time Alter/blackbird.jpg
+  musicInfo:
+    title: Time Alter
+    artist: Cranky
+    musicCategory: 0
+    version: Easy
+    time: 0
+    composer: Mirash
+    sheetOffset: 12016
+    timmingList:
+    - millisec: 12016
+      bpm: 136.5
+      speed: 1
+      beatMetor: 3
+      beatUnit: 4
+    - millisec: 29598
+      bpm: 136
+      speed: 1
+      beatMetor: 3
+      beatUnit: 4
+    - millisec: 30480
+      bpm: 136
+      speed: 1
+      beatMetor: 3
+      beatUnit: 4
+    - millisec: 54303
+      bpm: 60
+      speed: 1
+      beatMetor: 3
+      beatUnit: 4
+    - millisec: 76803
+      bpm: 60
+      speed: 1
+      beatMetor: 3
+      beatUnit: 4
+    - millisec: 82979
+      bpm: 60
+      speed: 1
+      beatMetor: 3
+      beatUnit: 4
+    - millisec: 86068
+      bpm: 60
+      speed: 1
+      beatMetor: 3
+      beatUnit: 4
+    - millisec: 90038
+      bpm: 60
+      speed: 1
+      beatMetor: 3
+      beatUnit: 4
+    - millisec: 95332
+      bpm: 60
+      speed: 1
+      beatMetor: 3
+      beatUnit: 4
+    - millisec: 96656
+      bpm: 60
+      speed: 1
+      beatMetor: 3
+      beatUnit: 4
+    - millisec: 123126
+      bpm: 60
+      speed: 1
+      beatMetor: 3
+      beatUnit: 4
+    - millisec: 124450
+      bpm: 60
+      speed: 1
+      beatMetor: 3
+      beatUnit: 4
+    - millisec: 125774
+      bpm: 60
+      speed: 1
+      beatMetor: 3
+      beatUnit: 4
+    - millisec: 127097
+      bpm: 60
+      speed: 1
+      beatMetor: 3
+      beatUnit: 4
+    - millisec: 128421
+      bpm: 60
+      speed: 1
+      beatMetor: 3
+      beatUnit: 4
+    - millisec: 129744
+      bpm: 60
+      speed: 1
+      beatMetor: 3
+      beatUnit: 4
+    - millisec: 131068
+      bpm: 60
+      speed: 1
+      beatMetor: 3
+      beatUnit: 4
+    - millisec: 132391
+      bpm: 60
+      speed: 1
+      beatMetor: 3
+      beatUnit: 4
+    - millisec: 132832
+      bpm: 60
+      speed: 1
+      beatMetor: 3
+      beatUnit: 4
+    - millisec: 133274
+      bpm: 60
+      speed: 1
+      beatMetor: 3
+      beatUnit: 4
+    - millisec: 135149
+      bpm: 60
+      speed: 1
+      beatMetor: 3
+      beatUnit: 4
+    - millisec: 136472
+      bpm: 60
+      speed: 1
+      beatMetor: 3
+      beatUnit: 4
+    - millisec: 136913
+      bpm: 60
+      speed: 1
+      beatMetor: 3
+      beatUnit: 4
+    - millisec: 137685
+      bpm: 160
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 149685
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 151185
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 197685
+      bpm: 160
+      speed: 1
+      beatMetor: 7
+      beatUnit: 4
+    - millisec: 208560
+      bpm: 160
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 208935
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 211560
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 214935
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 217560
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 217935
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 219060
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 220560
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 226560
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 238560
+      bpm: 160
+      speed: 1
+      beatMetor: 7
+      beatUnit: 4
+    - millisec: 249435
+      bpm: 160
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+  originalPack:
+    videoName: 
+    audioName: audio.mp3
+  sheetPack4Keys:
+  - rootFileName: Cranky - Time Alter (Mirash) [Easy]
+    sheetPath: Music/Cranky - Time Alter/Cranky - Time Alter (Mirash) [Easy].osu
+    level: 3
+    diff: 1
+    combo: 302
+  - rootFileName: Cranky - Time Alter (Mirash) [Trynna's Normal]
+    sheetPath: Music/Cranky - Time Alter/Cranky - Time Alter (Mirash) [Trynna's Normal].osu
+    level: 4
+    diff: 2
+    combo: 470

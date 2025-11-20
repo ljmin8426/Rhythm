@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09cabcba444b2814cbaaa1350bd4a2b9, type: 3}
+  m_Name: you feat ugu - PAINTER
+  m_EditorClassIdentifier: 
+  rootFileName: you feat ugu - PAINTER
+  folder: Music/you feat ugu - PAINTER
+  preview: 0
+  spritePath: Music/you feat ugu - PAINTER/painter.jpg
+  musicInfo:
+    title: PAINTER
+    artist: you feat. ugu
+    musicCategory: 0
+    version: Easy
+    time: 0
+    composer: McEndu
+    sheetOffset: 591
+    timmingList:
+    - millisec: 591
+      bpm: 175
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 33505
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 38991
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 39333
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 44476
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 44819
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 49962
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 50305
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 54076
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 111505
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 115791
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 116133
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 121276
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 121619
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 126762
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 127105
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 130876
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 132248
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 152819
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+  originalPack:
+    videoName: 
+    audioName: audio.mp3
+  sheetPack4Keys:
+  - rootFileName: you feat. ugu - PAINTER (McEndu) [Easy]
+    sheetPath: Music/you feat ugu - PAINTER/you feat. ugu - PAINTER (McEndu) [Easy].osu
+    level: 6.5
+    diff: 1
+    combo: 371
+  - rootFileName: you feat. ugu - PAINTER (McEndu) [Hard]
+    sheetPath: Music/you feat ugu - PAINTER/you feat. ugu - PAINTER (McEndu) [Hard].osu
+    level: 7.5
+    diff: 3
+    combo: 1222
+  - rootFileName: you feat. ugu - PAINTER (McEndu) [Insane]
+    sheetPath: Music/you feat ugu - PAINTER/you feat. ugu - PAINTER (McEndu) [Insane].osu
+    level: 8.3
+    diff: 4
+    combo: 1637
+  - rootFileName: you feat. ugu - PAINTER (McEndu) [Normal]
+    sheetPath: Music/you feat ugu - PAINTER/you feat. ugu - PAINTER (McEndu) [Normal].osu
+    level: 6.7
+    diff: 2
+    combo: 786

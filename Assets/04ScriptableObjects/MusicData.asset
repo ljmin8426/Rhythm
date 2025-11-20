@@ -1,0 +1,482 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c91496d823c51d4c8718bf10c64e3e5, type: 3}
+  m_Name: MusicData
+  m_EditorClassIdentifier: 
+  musicList:
+  - title: Hatsune Miku no Shoushitsu
+    artist: cosMo@BousouP feat. Hatsune Miku
+    audioPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\cosMo@BousouP
+      feat Hatsune Miku - Hatsune Miku no Shoushitsu\shousitu.mp3
+    BGAPath: 
+    BGPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\cosMo@BousouP
+      feat Hatsune Miku - Hatsune Miku no Shoushitsu\49785_vocaloid_hatsune_miku.jpg
+    hasVideo: 0
+    charts:
+    - diff: Normal
+      enumDiff: 1
+      chartPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\cosMo@BousouP
+        feat Hatsune Miku - Hatsune Miku no Shoushitsu\cosMo@BousouP feat. Hatsune
+        Miku - Hatsune Miku no Shoushitsu (juankristal) [HD].osu
+      title: Hatsune Miku no Shoushitsu
+      artist: cosMo@BousouP feat. Hatsune Miku
+      offSet: 1000
+      BPM: 400
+      meter: 4
+      circleSize: 4
+      noteCount: 2093
+    - diff: Insane
+      enumDiff: 3
+      chartPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\cosMo@BousouP
+        feat Hatsune Miku - Hatsune Miku no Shoushitsu\cosMo@BousouP feat. Hatsune
+        Miku - Hatsune Miku no Shoushitsu (juankristal) [Hydria's SC].osu
+      title: Hatsune Miku no Shoushitsu
+      artist: cosMo@BousouP feat. Hatsune Miku
+      offSet: 1000
+      BPM: 400
+      meter: 4
+      circleSize: 4
+      noteCount: 3571
+    - diff: Hard
+      enumDiff: 2
+      chartPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\cosMo@BousouP
+        feat Hatsune Miku - Hatsune Miku no Shoushitsu\cosMo@BousouP feat. Hatsune
+        Miku - Hatsune Miku no Shoushitsu (juankristal) [MX].osu
+      title: Hatsune Miku no Shoushitsu
+      artist: cosMo@BousouP feat. Hatsune Miku
+      offSet: 1000
+      BPM: 400
+      meter: 4
+      circleSize: 4
+      noteCount: 2823
+    - diff: Easy
+      enumDiff: 0
+      chartPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\cosMo@BousouP
+        feat Hatsune Miku - Hatsune Miku no Shoushitsu\cosMo@BousouP feat. Hatsune
+        Miku - Hatsune Miku no Shoushitsu (juankristal) [NM].osu
+      title: Hatsune Miku no Shoushitsu
+      artist: cosMo@BousouP feat. Hatsune Miku
+      offSet: 1000
+      BPM: 400
+      meter: 4
+      circleSize: 4
+      noteCount: 1166
+  - title: Time Alter
+    artist: Cranky
+    audioPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\Cranky
+      - Time Alter\audio.mp3
+    BGAPath: 
+    BGPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\Cranky
+      - Time Alter\blackbird.jpg
+    hasVideo: 0
+    charts:
+    - diff: Easy
+      enumDiff: 0
+      chartPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\Cranky
+        - Time Alter\Cranky - Time Alter (Mirash) [Easy].osu
+      title: Time Alter
+      artist: Cranky
+      offSet: 12016
+      BPM: 439
+      meter: 3
+      circleSize: 3
+      noteCount: 302
+    - diff: Normal
+      enumDiff: 1
+      chartPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\Cranky
+        - Time Alter\Cranky - Time Alter (Mirash) [Trynna's Normal].osu
+      title: Time Alter
+      artist: Cranky
+      offSet: 12016
+      BPM: 439
+      meter: 3
+      circleSize: 4
+      noteCount: 470
+  - title: Rabbit Hole feat. Hatsune Miku
+    artist: DECO*27
+    audioPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\DECO_27
+      - Rabbit Hole feat Hatsune Miku\audio.ogg
+    BGAPath: 
+    BGPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\DECO_27
+      - Rabbit Hole feat Hatsune Miku\BG.jpg
+    hasVideo: 0
+    charts:
+    - diff: Normal
+      enumDiff: 1
+      chartPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\DECO_27
+        - Rabbit Hole feat Hatsune Miku\DECO27 - Rabbit Hole feat. Hatsune Miku (Harbyter)
+        [Advanced].osu
+      title: Rabbit Hole feat. Hatsune Miku
+      artist: DECO*27
+      offSet: 3582
+      BPM: 346
+      meter: 4
+      circleSize: 4
+      noteCount: 1244
+    - diff: Easy
+      enumDiff: 0
+      chartPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\DECO_27
+        - Rabbit Hole feat Hatsune Miku\DECO27 - Rabbit Hole feat. Hatsune Miku (Harbyter)
+        [Easy].osu
+      title: Rabbit Hole feat. Hatsune Miku
+      artist: DECO*27
+      offSet: 3582
+      BPM: 346
+      meter: 4
+      circleSize: 4
+      noteCount: 713
+    - diff: Hard
+      enumDiff: 2
+      chartPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\DECO_27
+        - Rabbit Hole feat Hatsune Miku\DECO27 - Rabbit Hole feat. Hatsune Miku (Harbyter)
+        [Hard].osu
+      title: Rabbit Hole feat. Hatsune Miku
+      artist: DECO*27
+      offSet: 3582
+      BPM: 346
+      meter: 4
+      circleSize: 4
+      noteCount: 1528
+    - diff: Insane
+      enumDiff: 3
+      chartPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\DECO_27
+        - Rabbit Hole feat Hatsune Miku\DECO27 - Rabbit Hole feat. Hatsune Miku (Harbyter)
+        [Hyper].osu
+      title: Rabbit Hole feat. Hatsune Miku
+      artist: DECO*27
+      offSet: 3582
+      BPM: 346
+      meter: 4
+      circleSize: 4
+      noteCount: 1890
+  - title: Hikaru nara (TV Size)
+    artist: Goose house
+    audioPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\Goose
+      house - Hikaru nara\audio.mp3
+    BGAPath: 
+    BGPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\Goose
+      house - Hikaru nara\yourlie.jpg
+    hasVideo: 0
+    charts:
+    - diff: Normal
+      enumDiff: 1
+      chartPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\Goose
+        house - Hikaru nara\Goose house - Hikaru nara (TV Size) (Harbyter) [Advanced].osu
+      title: Hikaru nara (TV Size)
+      artist: Goose house
+      offSet: 546
+      BPM: 375
+      meter: 4
+      circleSize: 4
+      noteCount: 509
+    - diff: Hard
+      enumDiff: 2
+      chartPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\Goose
+        house - Hikaru nara\Goose house - Hikaru nara (TV Size) (Harbyter) [Hard].osu
+      title: Hikaru nara (TV Size)
+      artist: Goose house
+      offSet: 546
+      BPM: 375
+      meter: 4
+      circleSize: 4
+      noteCount: 619
+    - diff: Insane
+      enumDiff: 3
+      chartPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\Goose
+        house - Hikaru nara\Goose house - Hikaru nara (TV Size) (Harbyter) [Insane].osu
+      title: Hikaru nara (TV Size)
+      artist: Goose house
+      offSet: 546
+      BPM: 375
+      meter: 4
+      circleSize: 4
+      noteCount: 730
+    - diff: Easy
+      enumDiff: 0
+      chartPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\Goose
+        house - Hikaru nara\Goose house - Hikaru nara (TV Size) (Harbyter) [Normal].osu
+      title: Hikaru nara (TV Size)
+      artist: Goose house
+      offSet: 546
+      BPM: 375
+      meter: 4
+      circleSize: 4
+      noteCount: 417
+  - title: Seishun Complex (TV Size)
+    artist: kessoku band
+    audioPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\kessoku
+      band - Seishun Complex\audio.mp3
+    BGAPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\kessoku
+      band - Seishun Complex\op.mp4
+    BGPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\kessoku
+      band - Seishun Complex\bg2.jpg
+    hasVideo: 1
+    charts:
+    - diff: Easy
+      enumDiff: 0
+      chartPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\kessoku
+        band - Seishun Complex\kessoku band - Seishun Complex (TV Size) (DenYi) [Easy].osu
+      title: Seishun Complex (TV Size)
+      artist: kessoku band
+      offSet: 535
+      BPM: 315
+      meter: 4
+      circleSize: 4
+      noteCount: 393
+    - diff: Hard
+      enumDiff: 2
+      chartPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\kessoku
+        band - Seishun Complex\kessoku band - Seishun Complex (TV Size) (DenYi) [Hard].osu
+      title: Seishun Complex (TV Size)
+      artist: kessoku band
+      offSet: 535
+      BPM: 315
+      meter: 4
+      circleSize: 4
+      noteCount: 873
+    - diff: Insane
+      enumDiff: 3
+      chartPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\kessoku
+        band - Seishun Complex\kessoku band - Seishun Complex (TV Size) (DenYi) [Insane].osu
+      title: Seishun Complex (TV Size)
+      artist: kessoku band
+      offSet: 535
+      BPM: 315
+      meter: 4
+      circleSize: 4
+      noteCount: 1070
+    - diff: Normal
+      enumDiff: 1
+      chartPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\kessoku
+        band - Seishun Complex\kessoku band - Seishun Complex (TV Size) (DenYi) [Nicknem's
+        Normal].osu
+      title: Seishun Complex (TV Size)
+      artist: kessoku band
+      offSet: 535
+      BPM: 315
+      meter: 4
+      circleSize: 4
+      noteCount: 622
+  - title: M@GICAL*CURE! LOVE <3 SHOT!
+    artist: SAWTOWNE
+    audioPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\SAWTOWNE
+      - M@GICAL_CURE! LOVE _3 SHOT!\audio.mp3
+    BGAPath: 
+    BGPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\SAWTOWNE
+      - M@GICAL_CURE! LOVE _3 SHOT!\bgbeam.jpg
+    hasVideo: 0
+    charts:
+    - diff: Normal
+      enumDiff: 1
+      chartPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\SAWTOWNE
+        - M@GICAL_CURE! LOVE _3 SHOT!\SAWTOWNE - M@GICALCURE! LOVE 3 SHOT! (Harbyter)
+        [Advanced Beam].osu
+      title: M@GICAL*CURE! LOVE <3 SHOT!
+      artist: SAWTOWNE
+      offSet: 175
+      BPM: 312
+      meter: 4
+      circleSize: 4
+      noteCount: 1473
+    - diff: Easy
+      enumDiff: 0
+      chartPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\SAWTOWNE
+        - M@GICAL_CURE! LOVE _3 SHOT!\SAWTOWNE - M@GICALCURE! LOVE 3 SHOT! (Harbyter)
+        [Beginner Beam].osu
+      title: M@GICAL*CURE! LOVE <3 SHOT!
+      artist: SAWTOWNE
+      offSet: 175
+      BPM: 312
+      meter: 4
+      circleSize: 4
+      noteCount: 567
+    - diff: Hard
+      enumDiff: 2
+      chartPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\SAWTOWNE
+        - M@GICAL_CURE! LOVE _3 SHOT!\SAWTOWNE - M@GICALCURE! LOVE 3 SHOT! (Harbyter)
+        [Hard Beam].osu
+      title: M@GICAL*CURE! LOVE <3 SHOT!
+      artist: SAWTOWNE
+      offSet: 175
+      BPM: 312
+      meter: 4
+      circleSize: 4
+      noteCount: 1959
+    - diff: Insane
+      enumDiff: 3
+      chartPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\SAWTOWNE
+        - M@GICAL_CURE! LOVE _3 SHOT!\SAWTOWNE - M@GICALCURE! LOVE 3 SHOT! (Harbyter)
+        [Insane Beam].osu
+      title: M@GICAL*CURE! LOVE <3 SHOT!
+      artist: SAWTOWNE
+      offSet: 175
+      BPM: 312
+      meter: 4
+      circleSize: 4
+      noteCount: 2375
+  - title: FREEDOM DiVE
+    artist: xi
+    audioPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\xi
+      - FREEDOM DiVE\Freedom Dive.mp3
+    BGAPath: 
+    BGPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\xi
+      - FREEDOM DiVE\background desuuu.jpg
+    hasVideo: 0
+    charts:
+    - diff: Normal
+      enumDiff: 1
+      chartPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\xi
+        - FREEDOM DiVE\xi - FREEDOM DiVE (razlteh) [4K Another].osu
+      title: FREEDOM DiVE
+      artist: xi
+      offSet: 2133
+      BPM: 270
+      meter: 4
+      circleSize: 4
+      noteCount: 3024
+    - diff: Hard
+      enumDiff: 2
+      chartPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\xi
+        - FREEDOM DiVE\xi - FREEDOM DiVE (razlteh) [4K Hyper].osu
+      title: FREEDOM DiVE
+      artist: xi
+      offSet: 2133
+      BPM: 270
+      meter: 4
+      circleSize: 4
+      noteCount: 2030
+    - diff: Normal
+      enumDiff: 1
+      chartPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\xi
+        - FREEDOM DiVE\xi - FREEDOM DiVE (razlteh) [4K Normal].osu
+      title: FREEDOM DiVE
+      artist: xi
+      offSet: 2133
+      BPM: 270
+      meter: 4
+      circleSize: 4
+      noteCount: 1310
+    - diff: Insane
+      enumDiff: 3
+      chartPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\xi
+        - FREEDOM DiVE\xi - FREEDOM DiVE (razlteh) [Fullerene's 4K DIMENSIONS].osu
+      title: FREEDOM DiVE
+      artist: xi
+      offSet: 2133
+      BPM: 270
+      meter: 4
+      circleSize: 4
+      noteCount: 5518
+  - title: Idol
+    artist: YOASOBI
+    audioPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\YOASOBI
+      - Idol\audio.mp3
+    BGAPath: 
+    BGPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\YOASOBI
+      - Idol\idolbg.jpg
+    hasVideo: 0
+    charts:
+    - diff: Insane
+      enumDiff: 3
+      chartPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\YOASOBI
+        - Idol\YOASOBI - Idol (0DZ0) [Rising Star!].osu
+      title: Idol
+      artist: YOASOBI
+      offSet: 335
+      BPM: 361
+      meter: 4
+      circleSize: 4
+      noteCount: 3479
+  - title: PAINTER
+    artist: you feat. ugu
+    audioPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\you
+      feat ugu - PAINTER\audio.mp3
+    BGAPath: 
+    BGPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\you
+      feat ugu - PAINTER\painter.jpg
+    hasVideo: 0
+    charts:
+    - diff: Easy
+      enumDiff: 0
+      chartPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\you
+        feat ugu - PAINTER\you feat. ugu - PAINTER (McEndu) [Easy].osu
+      title: PAINTER
+      artist: you feat. ugu
+      offSet: 591
+      BPM: 342
+      meter: 4
+      circleSize: 4
+      noteCount: 371
+    - diff: Hard
+      enumDiff: 2
+      chartPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\you
+        feat ugu - PAINTER\you feat. ugu - PAINTER (McEndu) [Hard].osu
+      title: PAINTER
+      artist: you feat. ugu
+      offSet: 591
+      BPM: 342
+      meter: 4
+      circleSize: 4
+      noteCount: 1222
+    - diff: Insane
+      enumDiff: 3
+      chartPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\you
+        feat ugu - PAINTER\you feat. ugu - PAINTER (McEndu) [Insane].osu
+      title: PAINTER
+      artist: you feat. ugu
+      offSet: 591
+      BPM: 342
+      meter: 4
+      circleSize: 4
+      noteCount: 1637
+    - diff: Normal
+      enumDiff: 1
+      chartPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\you
+        feat ugu - PAINTER\you feat. ugu - PAINTER (McEndu) [Normal].osu
+      title: PAINTER
+      artist: you feat. ugu
+      offSet: 591
+      BPM: 342
+      meter: 4
+      circleSize: 4
+      noteCount: 786
+  - title: Asu no Yozora Shoukaihan
+    artist: Yuaru
+    audioPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\Yuaru
+      - Asu no Yozora Shoukaihan\Yual - AnoYozora.mp3
+    BGAPath: 
+    BGPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\Yuaru
+      - Asu no Yozora Shoukaihan\3qq6.png
+    hasVideo: 0
+    charts:
+    - diff: Easy
+      enumDiff: 0
+      chartPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\Yuaru
+        - Asu no Yozora Shoukaihan\Yuaru - Asu no Yozora Shoukaihan [Easy].osu
+      title: Asu no Yozora Shoukaihan
+      artist: Yuaru
+      offSet: 1392
+      BPM: 324
+      meter: 4
+      circleSize: 4
+      noteCount: 182
+    - diff: Normal
+      enumDiff: 1
+      chartPath: C:\Users\sklim\Documents\GitHub\RhythmGame\Assets\StreamingAssets\Music\Yuaru
+        - Asu no Yozora Shoukaihan\Yuaru - Asu no Yozora Shoukaihan [Normal].osu
+      title: Asu no Yozora Shoukaihan
+      artist: Yuaru
+      offSet: 1392
+      BPM: 324
+      meter: 4
+      circleSize: 4
+      noteCount: 323

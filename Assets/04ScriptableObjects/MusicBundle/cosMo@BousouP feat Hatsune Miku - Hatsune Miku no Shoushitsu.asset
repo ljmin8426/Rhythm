@@ -1,0 +1,169 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09cabcba444b2814cbaaa1350bd4a2b9, type: 3}
+  m_Name: cosMo@BousouP feat Hatsune Miku - Hatsune Miku no Shoushitsu
+  m_EditorClassIdentifier: 
+  rootFileName: cosMo@BousouP feat Hatsune Miku - Hatsune Miku no Shoushitsu
+  folder: Music/cosMo@BousouP feat Hatsune Miku - Hatsune Miku no Shoushitsu
+  preview: 0
+  spritePath: Music/cosMo@BousouP feat Hatsune Miku - Hatsune Miku no Shoushitsu/49785_vocaloid_hatsune_miku.jpg
+  musicInfo:
+    title: Hatsune Miku no Shoushitsu
+    artist: cosMo@BousouP feat. Hatsune Miku
+    musicCategory: 0
+    version: Normal
+    time: 0
+    composer: juankristal
+    sheetOffset: 1000
+    timmingList:
+    - millisec: 1000
+      bpm: 150
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 1000
+      bpm: 60
+      speed: 1.6
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 25000
+      bpm: 140
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 25000
+      bpm: 60
+      speed: 1.71
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 26701
+      bpm: 240
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 26701
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 42701
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 100888
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 102763
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 104701
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 106763
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 122701
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 138701
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 146638
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 204763
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 206763
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 208701
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 210763
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 226701
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 242701
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 258701
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 266701
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+  originalPack:
+    videoName: 
+    audioName: shousitu.mp3
+  sheetPack4Keys:
+  - rootFileName: cosMo@BousouP feat. Hatsune Miku - Hatsune Miku no Shoushitsu (juankristal)
+      [HD]
+    sheetPath: Music/cosMo@BousouP feat Hatsune Miku - Hatsune Miku no Shoushitsu/cosMo@BousouP
+      feat. Hatsune Miku - Hatsune Miku no Shoushitsu (juankristal) [HD].osu
+    level: 7.5
+    diff: 2
+    combo: 2093
+  - rootFileName: cosMo@BousouP feat. Hatsune Miku - Hatsune Miku no Shoushitsu (juankristal)
+      [Hydria's SC]
+    sheetPath: Music/cosMo@BousouP feat Hatsune Miku - Hatsune Miku no Shoushitsu/cosMo@BousouP
+      feat. Hatsune Miku - Hatsune Miku no Shoushitsu (juankristal) [Hydria's SC].osu
+    level: 8
+    diff: 4
+    combo: 3571
+  - rootFileName: cosMo@BousouP feat. Hatsune Miku - Hatsune Miku no Shoushitsu (juankristal)
+      [MX]
+    sheetPath: Music/cosMo@BousouP feat Hatsune Miku - Hatsune Miku no Shoushitsu/cosMo@BousouP
+      feat. Hatsune Miku - Hatsune Miku no Shoushitsu (juankristal) [MX].osu
+    level: 7.5
+    diff: 3
+    combo: 2823
+  - rootFileName: cosMo@BousouP feat. Hatsune Miku - Hatsune Miku no Shoushitsu (juankristal)
+      [NM]
+    sheetPath: Music/cosMo@BousouP feat Hatsune Miku - Hatsune Miku no Shoushitsu/cosMo@BousouP
+      feat. Hatsune Miku - Hatsune Miku no Shoushitsu (juankristal) [NM].osu
+    level: 7
+    diff: 1
+    combo: 1166

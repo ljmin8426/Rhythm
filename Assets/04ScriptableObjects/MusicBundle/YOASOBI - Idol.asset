@@ -1,0 +1,686 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09cabcba444b2814cbaaa1350bd4a2b9, type: 3}
+  m_Name: YOASOBI - Idol
+  m_EditorClassIdentifier: 
+  rootFileName: YOASOBI - Idol
+  folder: Music/YOASOBI - Idol
+  preview: 0
+  spritePath: Music/YOASOBI - Idol/idolbg.jpg
+  musicInfo:
+    title: Idol
+    artist: YOASOBI
+    musicCategory: 0
+    version: Insane
+    time: 0
+    composer: 0DZ0
+    sheetOffset: 335
+    timmingList:
+    - millisec: 335
+      bpm: 166
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 14792
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 17684
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 40816
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 46600
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 55274
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 78407
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 89973
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 98648
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 101539
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 123949
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 124311
+      bpm: 144
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 124311
+      bpm: 60
+      speed: 1.15
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 124728
+      bpm: 153
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 124728
+      bpm: 60
+      speed: 1.08
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 125120
+      bpm: 150
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 125120
+      bpm: 60
+      speed: 1.11
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 125520
+      bpm: 151
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 125520
+      bpm: 60
+      speed: 1.1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 126314
+      bpm: 147
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 126314
+      bpm: 60
+      speed: 1.13
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 127131
+      bpm: 153
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 127131
+      bpm: 60
+      speed: 1.08
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 127523
+      bpm: 149
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 127523
+      bpm: 60
+      speed: 1.11
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 127926
+      bpm: 151
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 127926
+      bpm: 60
+      speed: 1.1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 128323
+      bpm: 149
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 128323
+      bpm: 60
+      speed: 1.11
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 128726
+      bpm: 157
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 128726
+      bpm: 60
+      speed: 1.06
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 129108
+      bpm: 147
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 129108
+      bpm: 60
+      speed: 1.13
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 129516
+      bpm: 151
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 129516
+      bpm: 60
+      speed: 1.1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 130311
+      bpm: 146
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 130311
+      bpm: 60
+      speed: 1.14
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 130722
+      bpm: 150
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 130722
+      bpm: 60
+      speed: 1.11
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 131922
+      bpm: 149
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 131922
+      bpm: 60
+      speed: 1.11
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 133130
+      bpm: 150
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 133130
+      bpm: 60
+      speed: 1.11
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 133530
+      bpm: 152
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 133530
+      bpm: 60
+      speed: 1.09
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 133924
+      bpm: 149
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 133924
+      bpm: 60
+      speed: 1.11
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 134327
+      bpm: 153
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 134327
+      bpm: 60
+      speed: 1.08
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 134719
+      bpm: 151
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 134719
+      bpm: 60
+      speed: 1.1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 135117
+      bpm: 149
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 135117
+      bpm: 60
+      speed: 1.11
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 135922
+      bpm: 148
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 135922
+      bpm: 60
+      speed: 1.12
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 136327
+      bpm: 150
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 136327
+      bpm: 60
+      speed: 1.11
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 136727
+      bpm: 151
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 136727
+      bpm: 60
+      speed: 1.1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 137522
+      bpm: 150
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 137522
+      bpm: 60
+      speed: 1.11
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 150322
+      bpm: 154
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 150322
+      bpm: 60
+      speed: 1.08
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 150712
+      bpm: 156
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 150712
+      bpm: 60
+      speed: 1.06
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 151096
+      bpm: 161
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 151096
+      bpm: 60
+      speed: 1.03
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 151469
+      bpm: 156
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 151469
+      bpm: 60
+      speed: 1.06
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 151854
+      bpm: 157
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 151854
+      bpm: 60
+      speed: 1.06
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 152236
+      bpm: 156
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 152236
+      bpm: 60
+      speed: 1.06
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 152620
+      bpm: 158
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 152620
+      bpm: 60
+      speed: 1.05
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 154139
+      bpm: 157
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 154139
+      bpm: 60
+      speed: 1.06
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 154522
+      bpm: 160
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 154522
+      bpm: 60
+      speed: 1.04
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 155272
+      bpm: 157
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 155272
+      bpm: 60
+      speed: 1.06
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 156418
+      bpm: 163
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 156418
+      bpm: 60
+      speed: 1.02
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 156786
+      bpm: 158
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 156786
+      bpm: 60
+      speed: 1.05
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 157166
+      bpm: 162
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 157166
+      bpm: 60
+      speed: 1.02
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 157536
+      bpm: 155
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 157536
+      bpm: 60
+      speed: 1.0699999
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 157923
+      bpm: 154
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 157923
+      bpm: 60
+      speed: 1.08
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 158313
+      bpm: 158
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 158313
+      bpm: 60
+      speed: 1.05
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 159072
+      bpm: 160
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 159072
+      bpm: 60
+      speed: 1.04
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 159447
+      bpm: 157
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 159447
+      bpm: 60
+      speed: 1.06
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 160212
+      bpm: 158
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 160212
+      bpm: 60
+      speed: 1.05
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 160592
+      bpm: 159
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 160592
+      bpm: 60
+      speed: 1.04
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 160969
+      bpm: 157
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 160969
+      bpm: 60
+      speed: 1.06
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 161733
+      bpm: 156
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 161733
+      bpm: 60
+      speed: 1.06
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 162118
+      bpm: 160
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 162118
+      bpm: 60
+      speed: 1.04
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 163055
+      bpm: 150
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 163055
+      bpm: 60
+      speed: 1.11
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 163255
+      bpm: 157
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 163255
+      bpm: 60
+      speed: 1.06
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 164211
+      bpm: 161
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 164211
+      bpm: 60
+      speed: 1.03
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 164770
+      bpm: 167
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 164770
+      bpm: 60
+      speed: 0.99
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 165129
+      bpm: 168
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 165129
+      bpm: 60
+      speed: 0.99
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 165486
+      bpm: 166
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 166571
+      bpm: 167
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 166571
+      bpm: 60
+      speed: 0.99
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 168008
+      bpm: 164
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 168008
+      bpm: 60
+      speed: 1.01
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 169105
+      bpm: 166
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 171273
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 188262
+      bpm: 165
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 188262
+      bpm: 60
+      speed: 1.01
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 188625
+      bpm: 60
+      speed: 1.01
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 188989
+      bpm: 166
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 194410
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 205976
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+  originalPack:
+    videoName: 
+    audioName: audio.mp3
+  sheetPack4Keys:
+  - rootFileName: YOASOBI - Idol (0DZ0) [Rising Star!]
+    sheetPath: Music/YOASOBI - Idol/YOASOBI - Idol (0DZ0) [Rising Star!].osu
+    level: 8.3
+    diff: 4
+    combo: 3479

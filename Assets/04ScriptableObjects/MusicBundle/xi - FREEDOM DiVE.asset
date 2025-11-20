@@ -1,0 +1,232 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09cabcba444b2814cbaaa1350bd4a2b9, type: 3}
+  m_Name: xi - FREEDOM DiVE
+  m_EditorClassIdentifier: 
+  rootFileName: xi - FREEDOM DiVE
+  folder: Music/xi - FREEDOM DiVE
+  preview: 0
+  spritePath: Music/xi - FREEDOM DiVE/background desuuu.jpg
+  musicInfo:
+    title: FREEDOM DiVE
+    artist: xi
+    musicCategory: 0
+    version: Normal
+    time: 0
+    composer: razlteh
+    sheetOffset: 2133
+    timmingList:
+    - millisec: 2133
+      bpm: 222.22002
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 10772
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 28052
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 47492
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 64772
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 82052
+      bpm: 60
+      speed: 0.8
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 98252
+      bpm: 60
+      speed: 0.825
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 98253
+      bpm: 60
+      speed: 0.825
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 99332
+      bpm: 60
+      speed: 0.85
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 99333
+      bpm: 60
+      speed: 0.85
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 100412
+      bpm: 60
+      speed: 0.88000005
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 100413
+      bpm: 60
+      speed: 0.88000005
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 101492
+      bpm: 60
+      speed: 0.9
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 101493
+      bpm: 60
+      speed: 0.9
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 102572
+      bpm: 60
+      speed: 0.93
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 102574
+      bpm: 60
+      speed: 0.93
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 103652
+      bpm: 60
+      speed: 0.95
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 103654
+      bpm: 60
+      speed: 0.95
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 104732
+      bpm: 60
+      speed: 0.97
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 104734
+      bpm: 60
+      speed: 0.97
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 105812
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 105814
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 106084
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 106352
+      bpm: 60
+      speed: 1.1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 106354
+      bpm: 60
+      speed: 1.1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 106624
+      bpm: 60
+      speed: 1.1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 106892
+      bpm: 60
+      speed: 1.5
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 106894
+      bpm: 60
+      speed: 1.5
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 107567
+      bpm: 60
+      speed: 1.15
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 107635
+      bpm: 60
+      speed: 0.8
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 107702
+      bpm: 60
+      speed: 0.5
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 107704
+      bpm: 60
+      speed: 0.5
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 107972
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 146853
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 218133
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 257013
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+  originalPack:
+    videoName: 
+    audioName: Freedom Dive.mp3
+  sheetPack4Keys:
+  - rootFileName: xi - FREEDOM DiVE (razlteh) [4K Another]
+    sheetPath: Music/xi - FREEDOM DiVE/xi - FREEDOM DiVE (razlteh) [4K Another].osu
+    level: 8
+    diff: 2
+    combo: 3024
+  - rootFileName: xi - FREEDOM DiVE (razlteh) [4K Hyper]
+    sheetPath: Music/xi - FREEDOM DiVE/xi - FREEDOM DiVE (razlteh) [4K Hyper].osu
+    level: 8
+    diff: 3
+    combo: 2030
+  - rootFileName: xi - FREEDOM DiVE (razlteh) [4K Normal]
+    sheetPath: Music/xi - FREEDOM DiVE/xi - FREEDOM DiVE (razlteh) [4K Normal].osu
+    level: 8
+    diff: 2
+    combo: 1310
+  - rootFileName: xi - FREEDOM DiVE (razlteh) [Fullerene's 4K DIMENSIONS]
+    sheetPath: Music/xi - FREEDOM DiVE/xi - FREEDOM DiVE (razlteh) [Fullerene's 4K
+      DIMENSIONS].osu
+    level: 9
+    diff: 4
+    combo: 5518

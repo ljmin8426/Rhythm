@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09cabcba444b2814cbaaa1350bd4a2b9, type: 3}
+  m_Name: SAWTOWNE - M@GICAL_CURE! LOVE _3 SHOT!
+  m_EditorClassIdentifier: 
+  rootFileName: SAWTOWNE - M@GICAL_CURE! LOVE _3 SHOT!
+  folder: Music/SAWTOWNE - M@GICAL_CURE! LOVE _3 SHOT!
+  preview: 0
+  spritePath: Music/SAWTOWNE - M@GICAL_CURE! LOVE _3 SHOT!/bgbeam.jpg
+  musicInfo:
+    title: M@GICAL*CURE! LOVE <3 SHOT!
+    artist: SAWTOWNE
+    musicCategory: 0
+    version: Normal
+    time: 0
+    composer: Harbyter
+    sheetOffset: 175
+    timmingList:
+    - millisec: 175
+      bpm: 192
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 50175
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 70175
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 95175
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 103925
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 115175
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 135175
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 170175
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 180175
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+  originalPack:
+    videoName: 
+    audioName: audio.mp3
+  sheetPack4Keys:
+  - rootFileName: SAWTOWNE - M@GICALCURE! LOVE 3 SHOT! (Harbyter) [Advanced Beam]
+    sheetPath: Music/SAWTOWNE - M@GICAL_CURE! LOVE _3 SHOT!/SAWTOWNE - M@GICALCURE!
+      LOVE 3 SHOT! (Harbyter) [Advanced Beam].osu
+    level: 7
+    diff: 2
+    combo: 1473
+  - rootFileName: SAWTOWNE - M@GICALCURE! LOVE 3 SHOT! (Harbyter) [Beginner Beam]
+    sheetPath: Music/SAWTOWNE - M@GICAL_CURE! LOVE _3 SHOT!/SAWTOWNE - M@GICALCURE!
+      LOVE 3 SHOT! (Harbyter) [Beginner Beam].osu
+    level: 6
+    diff: 1
+    combo: 567
+  - rootFileName: SAWTOWNE - M@GICALCURE! LOVE 3 SHOT! (Harbyter) [Hard Beam]
+    sheetPath: Music/SAWTOWNE - M@GICAL_CURE! LOVE _3 SHOT!/SAWTOWNE - M@GICALCURE!
+      LOVE 3 SHOT! (Harbyter) [Hard Beam].osu
+    level: 7
+    diff: 3
+    combo: 1959
+  - rootFileName: SAWTOWNE - M@GICALCURE! LOVE 3 SHOT! (Harbyter) [Insane Beam]
+    sheetPath: Music/SAWTOWNE - M@GICAL_CURE! LOVE _3 SHOT!/SAWTOWNE - M@GICALCURE!
+      LOVE 3 SHOT! (Harbyter) [Insane Beam].osu
+    level: 8
+    diff: 4
+    combo: 2375

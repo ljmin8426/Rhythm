@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09cabcba444b2814cbaaa1350bd4a2b9, type: 3}
+  m_Name: kessoku band - Seishun Complex
+  m_EditorClassIdentifier: 
+  rootFileName: kessoku band - Seishun Complex
+  folder: Music/kessoku band - Seishun Complex
+  preview: 0
+  spritePath: Music/kessoku band - Seishun Complex/bg2.jpg
+  musicInfo:
+    title: Seishun Complex (TV Size)
+    artist: kessoku band
+    musicCategory: 0
+    version: Easy
+    time: 0
+    composer: DenYi
+    sheetOffset: 535
+    timmingList:
+    - millisec: 535
+      bpm: 190.00002
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 39692
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 49166
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 49798
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 59271
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 59903
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 69377
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 70008
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 80113
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+  originalPack:
+    videoName: op.mp4
+    audioName: audio.mp3
+  sheetPack4Keys:
+  - rootFileName: kessoku band - Seishun Complex (TV Size) (DenYi) [Easy]
+    sheetPath: Music/kessoku band - Seishun Complex/kessoku band - Seishun Complex
+      (TV Size) (DenYi) [Easy].osu
+    level: 6.5
+    diff: 1
+    combo: 393
+  - rootFileName: kessoku band - Seishun Complex (TV Size) (DenYi) [Hard]
+    sheetPath: Music/kessoku band - Seishun Complex/kessoku band - Seishun Complex
+      (TV Size) (DenYi) [Hard].osu
+    level: 7.5
+    diff: 3
+    combo: 873
+  - rootFileName: kessoku band - Seishun Complex (TV Size) (DenYi) [Insane]
+    sheetPath: Music/kessoku band - Seishun Complex/kessoku band - Seishun Complex
+      (TV Size) (DenYi) [Insane].osu
+    level: 8
+    diff: 4
+    combo: 1070
+  - rootFileName: kessoku band - Seishun Complex (TV Size) (DenYi) [Nicknem's Normal]
+    sheetPath: Music/kessoku band - Seishun Complex/kessoku band - Seishun Complex
+      (TV Size) (DenYi) [Nicknem's Normal].osu
+    level: 7
+    diff: 2
+    combo: 622

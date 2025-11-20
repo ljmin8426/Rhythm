@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09cabcba444b2814cbaaa1350bd4a2b9, type: 3}
+  m_Name: Goose house - Hikaru nara
+  m_EditorClassIdentifier: 
+  rootFileName: Goose house - Hikaru nara
+  folder: Music/Goose house - Hikaru nara
+  preview: 0
+  spritePath: Music/Goose house - Hikaru nara/yourlie.jpg
+  musicInfo:
+    title: Hikaru nara (TV Size)
+    artist: Goose house
+    musicCategory: 0
+    version: Normal
+    time: 0
+    composer: Harbyter
+    sheetOffset: 546
+    timmingList:
+    - millisec: 546
+      bpm: 160
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 5046
+      bpm: 160
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 53046
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+    - millisec: 74046
+      bpm: 60
+      speed: 1
+      beatMetor: 4
+      beatUnit: 4
+  originalPack:
+    videoName: 
+    audioName: audio.mp3
+  sheetPack4Keys:
+  - rootFileName: Goose house - Hikaru nara (TV Size) (Harbyter) [Advanced]
+    sheetPath: Music/Goose house - Hikaru nara/Goose house - Hikaru nara (TV Size)
+      (Harbyter) [Advanced].osu
+    level: 7
+    diff: 2
+    combo: 509
+  - rootFileName: Goose house - Hikaru nara (TV Size) (Harbyter) [Hard]
+    sheetPath: Music/Goose house - Hikaru nara/Goose house - Hikaru nara (TV Size)
+      (Harbyter) [Hard].osu
+    level: 7.5
+    diff: 3
+    combo: 619
+  - rootFileName: Goose house - Hikaru nara (TV Size) (Harbyter) [Insane]
+    sheetPath: Music/Goose house - Hikaru nara/Goose house - Hikaru nara (TV Size)
+      (Harbyter) [Insane].osu
+    level: 8
+    diff: 4
+    combo: 730
+  - rootFileName: Goose house - Hikaru nara (TV Size) (Harbyter) [Normal]
+    sheetPath: Music/Goose house - Hikaru nara/Goose house - Hikaru nara (TV Size)
+      (Harbyter) [Normal].osu
+    level: 6.5
+    diff: 1
+    combo: 417
